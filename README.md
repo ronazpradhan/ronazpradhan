@@ -17,26 +17,6 @@ Right now, my main project is **Money Tracker** , a simple personal finance app 
 - **Programming:** C, C++, Python
 - **Tools:** Git, GitHub, VS Code, Figma, Canva
 
-## Projects
-
-- **Money Tracker**  
-  A simple Android/Web app for tracking income, expenses, history, and categories.  
-  Built for quick logging and minimal friction.
-
-- **Student Details System**  
-  A web app where users can enter student details and manage/retrieve them later.
-
-More projects are coming as I keep learning and shipping.
-
-## Links
-
-- Portfolio: Coming soon
-- Money Tracker: https://money-tracker-android-web.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/ronazpradhan/
-- GitHub: https://github.com/ronazpradhan
-- Instagram: https://www.instagram.com/ronazpradhan/
-- Email: hi.ronajpradhan@gmail.com
-
 ## Fun facts
 
 - I like clean dark UI designs.
