@@ -1,13 +1,13 @@
 # Hey there 👋
 
-I'm **Ronaj Pradhan**, a BSc CSIT student from Nepal.
+I'm **Ronaj**, a BSc CSIT student from Nepal.
 
 I build simple and useful web + Android apps.  
 Most of my projects come from real problems I face as a student or developer.
 
-Right now, my main project is **Money Tracker** — a simple personal finance app focused on fast expense logging, privacy, offline use, and clean UI.
-
 I like building products that are easy to use, not overloaded with unnecessary features.
+
+Right now, my main project is **Money Tracker** , a simple personal finance app focused on fast expense logging, privacy, offline use, and clean UI.
 
 ## What I work with
 
