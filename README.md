@@ -14,7 +14,7 @@ Right now, my main project is **Money Tracker** , a simple personal finance app 
 - **Frontend:** React, Tailwind CSS, JavaScript, TypeScript
 - **Mobile:** React Native, Expo, Android Studio
 - **Backend / Database:** PostgreSQL, Neon, Render
-- **Programming:** C, C++, Python
+- **Programming:** C, C++, Python, Java
 - **Tools:** Git, GitHub, VS Code, Figma, Canva
 
 ## Fun facts
